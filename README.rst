@@ -1,2 +1,0 @@
-# businessone
-SAP Business One
